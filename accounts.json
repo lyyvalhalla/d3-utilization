@@ -1,0 +1,144 @@
+{
+  "tu.utilization": {
+    "current": {
+      "utilization":  "94.18",
+      "available_credit":  12500,
+      "total_balance":  11772,
+      "accounts": 3
+    },
+    "2015-03": {
+      "utilization":  "61.55",
+      "available_credit":  12500,
+      "total_balance":  7694,
+      "accounts": 3
+    },
+    "2015-02": {
+      "utilization":  "52.62",
+      "available_credit":  12500,
+      "total_balance":  6578,
+      "accounts": 3
+    },
+    "2015-01": {
+      "utilization":  "65.47",
+      "available_credit":  12500,
+      "total_balance":  8184,
+      "accounts": 2
+    },
+      "2014-12": {
+      "utilization":  "87.22",
+      "available_credit":  12500,
+      "total_balance":  10903,
+      "accounts": 2
+    },
+      "2014-11": {
+      "utilization": "90.98",
+      "available_credit":  12500,
+      "total_balance":  11373,
+      "accounts": 2
+    },
+    "2014-10": {           
+      "utilization":  "73.3",
+      "available_credit":  12500,
+      "total_balance":  9163,
+      "accounts": 1
+    },
+    "2014-09": {
+      "utilization":  "88.29",
+      "available_credit":  12500,
+      "total_balance": 11036,
+      "accounts": 1
+    },
+    "2014-08": {
+      "utilization":  "75.14",
+      "available_credit":  12500,
+      "total_balance": 9392,
+      "accounts": 1
+    },
+    "2014-06": {
+      "utilization":  "44.54",
+      "available_credit":  12500,
+      "total_balance": 5568,
+      "accounts": 1
+    },
+    "2014-05": {
+      "utilization":  "49.19",
+      "available_credit":  12500,
+      "total_balance": 6149,
+      "accounts": 1
+    },
+    "2014-03": {
+      "utilization":  "65.61",
+      "available_credit":  12500,
+      "total_balance": 8201,
+      "accounts": 1
+    },
+    "2014-02": {
+      "utilization":  "53.75",
+      "available_credit":  12500,
+      "total_balance": 6719,
+      "accounts": 1
+    },
+    "2014-01": {
+      "utilization":  "38.27",
+      "available_credit":  12500,
+      "total_balance": 4784,
+      "accounts": 1
+    },
+    "2013-12": {
+      "utilization":  "48.12",
+      "available_credit":  12500,
+      "total_balance": 6015,
+      "accounts": 1
+    },
+    "2013-11": {
+      "utilization":  "47.4",
+      "available_credit":  12500,
+      "total_balance": 5925,
+      "accounts": 1
+    },
+    "2013-10": {
+      "utilization":  "53.82",
+      "available_credit":  10000,
+      "total_balance": 5382,
+      "accounts": 1
+    },
+    "2013-09": {
+      "utilization":  "52.91",
+      "available_credit":  10000,
+      "total_balance": 5291,
+      "accounts": 1
+    },
+    "2013-08": {
+      "utilization":  "58.81",
+      "available_credit":  10000,
+      "total_balance": 5881,
+      "accounts": 1
+    },
+    "2013-07": {
+      "utilization":  "75.65",
+      "available_credit":  7500,
+      "total_balance": 5674,
+      "accounts": 1
+    },
+    "2013-06": {
+      "utilization":  "63.65",
+      "available_credit":  7500,
+      "total_balance": 4774,
+      "accounts": 1
+    },
+    "2013-05": {
+      "utilization":  "49.84",
+      "available_credit":  7500,
+      "total_balance": 3738,
+      "accounts": 1
+    },
+    "2013-04": {
+      "utilization":  "49.84",
+      "available_credit":  7500,
+      "total_balance": 3738,
+      "accounts": 1
+    }
+  }
+,	
+"__end__" : true	
+}

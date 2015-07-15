@@ -1,0 +1,162 @@
+html, body {
+	background: #e6e6e6;
+	font-family: "Helvetica Neue";
+font-weight: lighter;
+	color: #444444;
+
+}
+
+
+.profile {
+	border-radius: 7px;
+	position: absolute;
+	top: 8%;
+	left: 5%;
+	width: 480px;
+	height: 500px;
+	background: #fff;
+	box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+#prof {
+	position: absolute;
+	top: 9%;
+	left: 5%;
+	width: 14%;
+	height: 28%;
+	opacity: 0.5;
+}
+
+.info {
+	border-radius: 7px 7px 0px 0px;
+	position: absolute;
+	top:0;
+	height: 55%;
+	width:100%;
+	background: #b5e0e1;
+}
+
+.tag {
+	position: absolute;
+	color: #888888 ;
+	font-size: 15px;
+	bottom: 10px;
+	right: 3px;
+}
+
+.utilization {
+	position: absolute;
+	bottom: 0;
+	height: 35%;
+	width: 95%;
+	/*background: #000000;*/
+}
+
+.utilization.tag {
+	bottom: 5px;
+	left: 5px;
+}
+
+.utilization * {
+  box-sizing: border-box;
+}
+.utilization path {
+  stroke-width: 3;
+  fill: none;
+  position: absolute;
+
+}
+
+.utilization .bar-rect {
+  fill: transparent;
+  stroke: none;
+}
+.utilization .point.hover {
+  stroke-width: 4;
+}
+.utilization .chart-container {
+  position: relative;
+}
+.utilization .chart-tooltip {
+  position: absolute;
+  background: #b5e0e1;
+  color: #444444;
+  top: ;
+  left: 0;
+  display: none;
+  padding: 5px 10px;
+  font-size: 15px;
+  border-radius: 5px;
+  border: 1px solid white;
+  pointer-events: none;
+}
+.utilization .chart-tooltip .title {
+  z-index: 3;
+  text-transform: uppercase;
+  font-size: 15px;
+}
+.utilization .bullet {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  display: block;
+  position: absolute;
+  right: 5px;
+  top: 13px;
+}
+
+
+.graph {
+	border-radius: 7px;
+	position: absolute;
+	top: 8%;
+	right: 3%;
+	background-color: #fff;
+	font-size: 10px;
+	box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+
+.axis path {
+	color: #444444;
+	none;
+}
+.x.axis line{
+	/*stroke: #fff;*/
+	
+}
+
+
+.y.axis path {
+  display: none;
+}
+
+.y.axis line {
+  stroke: #444;
+  stroke-opacity: .2;
+  shape-rendering: crispEdges;
+}
+
+.y.axis .zero line {
+  stroke: #444;
+  stroke-opacity: 1;
+}
+
+.y0.axis path{
+	display: none
+}
+
+.y0.axis line{
+
+	stroke: #444;
+  stroke-opacity: 0.3;
+  shape-rendering: crispEdges;
+}
+
+
+rect {
+  rx: 5;
+  ry: 5;
+  fill: #35bfd3;
+}
+
+
+
